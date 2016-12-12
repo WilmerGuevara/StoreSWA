@@ -1,0 +1,1 @@
+This is the first commit made on eclipse using EGit.
